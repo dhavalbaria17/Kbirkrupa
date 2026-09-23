@@ -1,0 +1,6 @@
+{
+  "name": "Kabirkrupa Grocery Store",
+  "description": "Local grocery store with real-time inventory updates, Navi price tracking alerts, fast local deliveries, and order history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
